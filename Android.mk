@@ -25,7 +25,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),catfish)
+ifeq ($(TARGET_DEVICE),w701)
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 
