@@ -1,2 +1,2 @@
-add_lunch_combo omni_w701-eng
-add_lunch_combo omni_w701-userdebug
+add_lunch_combo omni_sub_v8-eng
+add_lunch_combo omni_sub_v8-userdebug
